@@ -6,12 +6,12 @@ https://apptwitter1.netlify.app/
 
 <br>
 
-##Tech-stackes
+## Tech-stackes<br>
 react js<br>
 html<br>
 css<br>
 
-##Feature
+## Feature
 
 1. add the post<br>
 2. Update the post<br>
